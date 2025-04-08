@@ -1,0 +1,22 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+
+# Archivos de entorno virtual
+venv/
+.env/
+
+# Archivos de configuración y variables de entorno
+*.env
+
+# Archivos de registro (logs)
+*.log
+
+# Archivos generados por herramientas de empaquetado
+dist/
+build/
+*.egg-info/
+
+# Configuración de IDEs comunes
+.vscode/
+.idea/
