@@ -11,5 +11,5 @@ El objetivo principal de esta actividad es adquirir y reforzar habilidades bási
 - Realizar commits con mensajes descriptivos.
 - Fusionar (merge) cambios entre ramas.
 - Resolver conflictos de fusión.
-- Publicar cambios en un repositorio remoto (por ejemplo, en GitHub).
+- Publicar cambios en un repositorio remoto.
 
