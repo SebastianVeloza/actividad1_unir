@@ -13,3 +13,8 @@ El objetivo principal de esta actividad es adquirir y reforzar habilidades bási
 - Resolver conflictos de fusión.
 - Publicar cambios en un repositorio remoto.
 
+
+
+
+
+Realize nuevos Cambios
