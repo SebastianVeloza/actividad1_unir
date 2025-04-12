@@ -1,0 +1,6 @@
+rojo
+azul
+musica
+arbol
+carro
+edificio
