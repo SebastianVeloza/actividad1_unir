@@ -1,0 +1,1 @@
+    print(sort_list(word_list))

@@ -20,3 +20,8 @@ El objetivo principal de esta actividad es adquirir y reforzar habilidades bási
 -El árbol de commits del repositorio principal tras fusionar todas las pull requests posibles. Para ello, acceded a la ruta /commits/master del repositorio (por ejemplo, https://github.com/<id-usuario-admin>/practica-unir-eiec/commits/master). Deben aparecer los commits de las pull requests que se han fusionado y los autores.
 
 
+
+
+
+
+Realize nuevos Cambios
